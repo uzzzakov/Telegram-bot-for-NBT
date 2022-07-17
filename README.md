@@ -22,8 +22,8 @@ Run the code and wait for the console result "Бот запущен"
 
 ## Screenshots
 <p align="center">
-  <img width="460" src="Telegram-Bot/screenshots/1.png">
-  <img width="460" src="Telegram-Bot/screenshots/2.png">
-  <img width="460" src="Telegram-Bot/screenshots/3.png">
-  <img width="460" src="Telegram-Bot/screenshots/4.png">
+  <img src="Telegram-Bot/screenshots/1.png">
+  <img src="Telegram-Bot/screenshots/2.png">
+  <img src="Telegram-Bot/screenshots/3.png">
+  <img src="Telegram-Bot/screenshots/4.png">
 </p>
